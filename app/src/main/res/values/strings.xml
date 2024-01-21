@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Enter_Text">Enter Text</string>
+    <string name="Enter_Thoughts">Enter Thoughts</string>
+    <string name="Button_Text">SAVE</string>
+    <string name="showDataButton">SHOW DATA</string>
+</resources>
